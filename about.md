@@ -4,13 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about my preferences. [Animals](/favourite) !
+In this web you can find out more info about my preferences. [Animals](/favourite) !
 You help me about this web. Send me a photo of animals and the web grow up.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+If you want information about me. Visit this [site](/author) 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
