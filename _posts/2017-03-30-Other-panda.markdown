@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Other Panda"
+date:   2017-04-01 18:05:55 +0200
+categories: jekyll update
+---
+The giant ***panda*** is a conservation reliant vulnerable species. A 2007 report showed 239 pandas living in captivity inside China and another 27 outside the country. As of December 2014, 49 giant pandas lived in captivity outside China, living in 18 zoos in 13 different countries. Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild, while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000. Some reports also show that the number of giant pandas in the wild is on the rise.In March 2015, Mongabay stated that the wild giant panda population had increased by 268, or 16.8%, to 1,864 individuals.In 2016, the IUCN reclassified the species from "endangered" to "vulnerable" (it did not believe there was enough certainty yet to do so in 2008).
+
+![Image of panda](https://upload.wikimedia.org/wikipedia/commons/8/8d/Lightmatter_panda.jpg)
+
+![Image 2 of panda](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1024px-Grosser_Panda.JPG)
+
+[More Information][panda]
+
+[panda]: https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca
