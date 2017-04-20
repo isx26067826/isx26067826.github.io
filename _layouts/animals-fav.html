@@ -4,16 +4,16 @@ layout: default
 
 <div class="animals-fav">
 
-  <h1 class="page-heading">{{page.title}}</h1>
+  <h1 class="page-title">{{page.title}}</h1>
 	{{content}}
 	
 	<ul>
-	{% for XT in page.n %}
-		<li>{{ XT }}</li>
-		{% for xpost in site.categories.Mammals %}
+	{% for XT in page.cate %}
+		<li>{{ XT }}
+		{% for xpost in site.categories[XT] %}
 			<a class="post-link" href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
 		{% endfor %}
-		
+		</li>
 	{% endfor %}
 	</ul>
 </div>

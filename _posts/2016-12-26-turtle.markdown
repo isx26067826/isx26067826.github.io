@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hawksbill Turtle"
+date:   2016-12-26 19:05:55 +0200
+categories: Reptiles
+---
+
+
+Hawksbills are named for their narrow, pointed beak. They also have a distinctive pattern of overlapping scales on their shells that form a serrated-look on the edges. These colored and patterned shells make them highly-valuable and commonly sold as "tortoiseshell" in markets.
+
+Hawksbills are found mainly throughout the world's tropical oceans, predominantly in coral reefs. They feed mainly on sponges by using their narrow pointed beaks to extract them from crevices on the reef, but also eat sea anemones and jellyfish. Sea turtles are the living representatives of a group of reptiles that has existed on Earth and travelled our seas for the last 100 million years. They are a fundamental link in marine ecosystems and help maintain the health of coral reefs and sea grass beds.
+
+![Image of turtle](https://c402277.ssl.cf1.rackcdn.com/photos/167/images/hero_full/MID_225023-circle-hawksbill-turtle.jpg?1345565600)
+
+[More Information][tur]
+
+[tur]: https://www.worldwildlife.org/species/hawksbill-turtle

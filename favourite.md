@@ -1,11 +1,12 @@
 ---
 layout: animals-fav
 title: Diferent animals
-n: 
+cate: 
  - Mammals
  - Reptiles
  - Birds
  - Insects
  - Aquatic
+permalink: /diferent/
 ---
 Diferents news of animals:

@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-In this web you can find out more info about my preferences. [Animals](/favourite) !
-You help me about this web. Send me a photo of animals and the web grow up.
+This is a web of Environmental education.In this web your find more information about endangered animals [Animals](/diferent).
+If you find more interesting information about this theme , you send me a message.
 
-If you want information about me. Visit this [site](/author) 
+If you want information about this movement. Visit this [site](/movement).
 

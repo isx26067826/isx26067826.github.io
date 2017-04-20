@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Galapagos penguin"
+date:   2017-01-11 12:05:55 +0200
+categories: Birds
+---
+Galapagos Islands, Ecuador. It's not much of a surprise that Galapagos has a species of the animal on their own. Being considered as one of the world's notable destinations for wildlife-viewing, Galapagos Islands even offer visitors a chance to see and swim with the penguins. While most of the birds migrate accordingly to the season, the Galapagos penguins lived on the island all of their lives, according to CNN News.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pwK4dWf5Vs" frameborder="0" allowfullscreen></iframe>
