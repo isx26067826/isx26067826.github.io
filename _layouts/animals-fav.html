@@ -10,7 +10,7 @@ layout: default
 	<ul>
 	{% for XT in page.n %}
 		<li>{{ XT }}</li>
-		{% for xpost in site.categories.XT %}
+		{% for xpost in site.categories.Mammals %}
 			<a class="post-link" href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
 		{% endfor %}
 		
