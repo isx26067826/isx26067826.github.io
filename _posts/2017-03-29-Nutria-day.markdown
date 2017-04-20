@@ -2,7 +2,7 @@
 layout: post
 title:  "Otter Day"
 date:   2017-03-29 18:05:55 +0200
-categories: jekyll update
+categories: Aquatic
 ---
 `Otters` have long, slim bodies and relatively short limbs. Their most striking anatomical features are the powerful webbed feet used to swim, and their seal-like abilities holding breath underwater.
 >Most have sharp claws on their feet and all except the sea otter have long, muscular tails. 

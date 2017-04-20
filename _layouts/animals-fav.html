@@ -5,7 +5,15 @@ layout: default
 <div class="animals-fav">
 
   <h1 class="page-heading">{{page.title}}</h1>
-  
-  {{ content }}
-
+	{{content}}
+	
+	<ul>
+	{% for XT in page.n %}
+		<li>{{ XT }}</li>
+		{% for xpost in site.categories.XT %}
+			<a class="post-link" href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
+		{% endfor %}
+		
+	{% endfor %}
+	</ul>
 </div>

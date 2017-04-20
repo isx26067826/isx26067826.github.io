@@ -1,19 +1,11 @@
 ---
-#No edit this document , all content is in layouts
-#
 layout: animals-fav
-title: My Favourite Animals
+title: Diferent animals
+n: 
+ - Mammals
+ - Reptiles
+ - Birds
+ - Insects
+ - Aquatic
 ---
-The animals
-
-The diferent type :
-
-- Mammals
-
-- Reptiles
-
-- Birds
-
-- Insects
-
-- Aquatic Animals
+Diferents news of animals:
